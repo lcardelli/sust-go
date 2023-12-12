@@ -1,4 +1,4 @@
-module github.com/sustentabilidade/sust-go
+module github.com/lcardelli/sust-go
 
 go 1.21.5
 
