@@ -1,6 +1,7 @@
 package main
 
 import (
+	"github.com/lcardelli/sust-go/src/controller/routes"
 	"log"
 	"github.com/joho/godotenv"
 )
